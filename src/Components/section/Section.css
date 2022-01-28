@@ -1,0 +1,13 @@
+.card{
+    margin:100px 0px 100px 0px;
+    width:25%;
+    height:auto;
+    border-radius: 15px;
+    background-color: #15273F;
+}
+.text-blue{
+    color: #6380A9;
+}
+.acab:hover{
+    color:#00FFF8 !important ;
+}
